@@ -83,26 +83,26 @@ Where:
  
 #### word2vec:  
  
- ![word2vec](https://duytinvo.github.io/sim_w2v.png)
+ ![word2vec](./figs/sim_w2v.png)
  
 #### fasttext:  
  
- ![fasttext](https://duytinvo.github.io/sim_ft.png)
+ ![fasttext](./figs/sim_ft.png)
  
 #### glove:  
  
- ![glove](https://duytinvo.github.io/sim_glove.png)
+ ![glove](./figs/sim_glove.png)
  
 ### 2-D figures of 1000 random words   
  
 #### word2vec:  
  
- ![word2vec](https://duytinvo.github.io/w2v_50_yelp100.pro.png)
+ ![word2vec](./figs/w2v_50_yelp100.pro.png)
  
 #### fasttext:  
  
- ![fasttext](https://duytinvo.github.io/ft50_yelp100.pro.png)
+ ![fasttext](./figs/ft50_yelp100.pro.png)
  
 #### glove:  
  
- ![glove](https://duytinvo.github.io/glove50_yelp100.pro.png)
+ ![glove](./figs/glove50_yelp100.pro.png)
