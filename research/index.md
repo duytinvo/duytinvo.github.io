@@ -22,14 +22,22 @@ title: Research and Publications of Tin D. Vo
 2. Yue Zhang and Duy Tin Vo. Neural Networks for Sentiment Analysis. Tutorial at EMNLP 2016, Texas, USA, November.
 
 ## Service  
-##### PC member: 
+#### PC member: 
 - Conference on Natural Language Proocessing & Chinese Computing (2016);  
 - Joint Conference on Chinese Language Processing (2016);  
 - International Conference on Computational Linguistics (2018).
 
-##### Sub-Reviewer:  
+#### Sub-Reviewer:  
 - Association for the Advancement of Artificial Intelligence Conference (2017);  
 - European Chapter of the Association for Computational Linguistics (2017);  
 - Conference of the International Speech Communication Association (2017);  
 - Conference on Neural Information Processing Systems (2017);  
 - Annual Meeting of the Association for Computational Linguistics (2018).  
+
+## Skill  
+- Programming languages: Python, Cython, C++, Matlab, SQL, Java.
+- NLP packages: sklearn, gensim, NLTK, CoreNLP, ...
+- Deep Learning libraries: pytorch, tensorflow, keras, theano.
+- Computing services: AWS, gcloud, Valohai, Paperspace
+- Collaborating packages: Docker, Github, Basecamp, Jira, LaTeX, Markdown.
+- OS: Linux, Windows, macOS  
