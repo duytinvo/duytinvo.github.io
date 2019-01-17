@@ -22,12 +22,12 @@ title: Research and Publications of Tin D. Vo
 2. Yue Zhang and Duy Tin Vo. Neural Networks for Sentiment Analysis. Tutorial at EMNLP 2016, Texas, USA, November.
 
 ## Service  
-### PC member: 
+##### PC member: 
 - Conference on Natural Language Proocessing & Chinese Computing (2016);  
 - Joint Conference on Chinese Language Processing (2016);  
 - International Conference on Computational Linguistics (2018).
 
-### Sub-Reviewer:  
+##### Sub-Reviewer:  
 - Association for the Advancement of Artificial Intelligence Conference (2017);  
 - European Chapter of the Association for Computational Linguistics (2017);  
 - Conference of the International Speech Communication Association (2017);  
