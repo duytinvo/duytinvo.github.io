@@ -7,7 +7,7 @@ title: Education and Experience of Tin D. Vo
 #### Ph.D., Computer Science - Language Technologies (2013-2017)
 - Singapore University of Technology and Design, Singapore  
 - Thesis title: Sentiment Analysis for Short Texts Based on Neural Networks  
-- Advisor: Yue Zhang  
+- Advisor: __Yue Zhang__  
 - GPA: 4.11/5.0 (Research Merit Award Winner)  
 
 #### B.Eng., Electronics and Telecommunication (2007-2011)  
