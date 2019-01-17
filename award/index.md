@@ -13,21 +13,29 @@ title: award and achievement of Tin D. Vo
 #### 1st Class Honours of Can Tho University (2011).  
 
 ## Award  
-#### Boeing Scholarship} (2007)
+#### Boeing Scholarship (2007)
 - for excellent engineering students.
+
 #### Sunflower Mission Engineering & Technology Scholarship (2008, 2009, 2010, 2011)
 - for academic achievement, leadership excellence and community service.
+
 #### Talent Holcim Scholarship (2009)
 - for excellent engineering students.
+
 #### Korean & Vietnamese Foundation Scholarship (2009, 2010)
 - for excellent engineering students.
+
 #### Biti's Scholarship (2009, 2010)
 - for the poor students with good academic results.
+
 #### LienViet Bank's Scholarship (2011)
 - for excellent students.
+
 #### Huawei & Ministry of Information and Communications Scholarship} (2011)
 - for outstanding achievements.
+
 #### SUTD President's Graduate Fellowship (2013)
 - 4-year scholarship for my PhD.
+
 #### Merit Award Winner (2017) 
 - for graduate research presentation at SUTD FIRST industry workshop.
