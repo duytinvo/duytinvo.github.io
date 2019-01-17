@@ -3,4 +3,6 @@ markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title
 
+# Create: Gemfile <-- source 'https://rubygems.org'; gem "github-pages", group: :jekyll_plugins
+# Run: bundle install <-- build themes
 theme: jekyll-theme-hacker
