@@ -1,12 +1,47 @@
+<!--<!DOCTYPE html>-->
+<!--<html lang="en">-->
+	<!--<head>-->
+        <!--<meta charset="UTF-8">-->
+		<!--&lt;!&ndash;<title>Tin D. Vo, PhD</title>&ndash;&gt;-->
+        <!--<title>{{ page.title }}</title>-->
+		<!--&lt;!&ndash; link to main stylesheet &ndash;&gt;-->
+		<!--<link rel="stylesheet" type="text/css" href="/css/main.css">-->
+	<!--</head>-->
+	<!--<body>-->
+		<!--<nav>-->
+    		<!--<ul>-->
+        		<!--<li><a href="/">Home</a></li>-->
+				<!--<li><a href="/research">Research & Publication</a></li>-->
+	        	<!--<li><a href="/experience">Education & Experience</a></li>-->
+				<!--<li><a href="/award">Award & Achievement</a></li>-->
+        		<!--&lt;!&ndash;<li><a href="/blog">Blog</a></li>&ndash;&gt;-->
+    		<!--</ul>-->
+		<!--</nav>-->
+		<!--<div class="container">-->
+            <!--{{ content }}-->
+    		<!--&lt;!&ndash;<div class="blurb">&ndash;&gt;-->
+        		<!--&lt;!&ndash;<h1>Hi there, I'm Tin D. Vo!</h1>&ndash;&gt;-->
+				<!--&lt;!&ndash;<p>I'm a data scientist at <em>Chata.ai</em> <a href="/about">Read more about my life...</a></p>&ndash;&gt;-->
+    		<!--&lt;!&ndash;</div>&lt;!&ndash; /.blurb &ndash;&gt;&ndash;&gt;-->
+		<!--</div>&lt;!&ndash; /.container &ndash;&gt;-->
+		<!--<footer>-->
+    		<!--<ul>-->
+        		<!--<li><a href="mailto:duytinvo@gmail.com">Email</a></li>-->
+        		<!--<li><a href="https://github.com/duytinvo">Github</a></li>-->
+				<!--<li><a href="https://www.linkedin.com/in/duytinvo/">Linkedin</a></li>-->
+			<!--</ul>-->
+		<!--</footer>-->
+	<!--</body>-->
+<!--</html>-->
 <!DOCTYPE html>
-<html lang="en">
-	<head>
-        <meta charset="UTF-8">
-		<!--<title>Tin D. Vo, PhD</title>-->
-        <title>{{ page.title }}</title>
-		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
-	</head>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+	  <meta charset='utf-8'>
+	  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	  <meta name="viewport" content="width=device-width, initial-scale=1"><title>{{ page.title }}</title>
+	  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+
 	<body>
 		<nav>
     		<ul>
