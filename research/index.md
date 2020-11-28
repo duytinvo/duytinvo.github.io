@@ -19,8 +19,8 @@ title: Research and Publications of Tin D. Vo
 - __Duy Tin Vo__ and Yue Zhang. Target-dependent Twitter Sentiment Classification with Rich Automatic Features. In Proceedings of IJCAI 2015, Buenos Aires, Argentina, July.  
 
 ## Talk  
-1. __Duy Tin Vo__. Neural Network Methods for Targeted Sentiment Extraction. An invited talk to Deep Learning Summit Asia 2016, Singapore, October.
-2. Yue Zhang and __Duy Tin Vo__. Neural Networks for Sentiment Analysis. Tutorial at EMNLP 2016, Texas, USA, November.
+- __Duy Tin Vo__. Neural Network Methods for Targeted Sentiment Extraction. An invited talk to Deep Learning Summit Asia 2016, Singapore, October.
+- Yue Zhang and __Duy Tin Vo__. Neural Networks for Sentiment Analysis. Tutorial at EMNLP 2016, Texas, USA, November.
 
 ## Service  
 #### PC member: 
