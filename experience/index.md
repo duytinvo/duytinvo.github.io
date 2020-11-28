@@ -15,9 +15,15 @@ title: Education and Experience of Tin D. Vo
 - GPA: 3.65/4.0 (First-class honor)  
 
 ## Experience  
-#### Data Scientist (07/2018 - now)  
+#### Assistant Professor (09/2020 - now)  
+- Lakehead University, Thunder Bay, Ontario, Canada 
+- Teach and research in NLP
+#### Technological Advisor (09/2020 - now)  
 - Chata.ai, Calgary, Alberta, Canada 
-- Join in the awesome R&D team to develop cutting-edge nlp models for applying into production.  
+- Propose NLP models to solve practical problems in production.  
+#### Data Scientist (07/2018 - 09/2020)  
+- Chata.ai, Calgary, Alberta, Canada 
+- Join in the R&D team to develop cutting-edge nlp models for applying into production.  
 
 #### Postdoctoral Fellow (12/2017 - 06/2018)  
 - MITACS program at Université Laval, Quebec city, Quebec, Canada  
